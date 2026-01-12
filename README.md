@@ -1,36 +1,106 @@
-👋 Hi, I’m @Arpit130805
+👋 Hi, I’m Arpit Kumar
 
-👀 I’m interested in Data Analytics, AI, and Web Development
+🎓 B.Tech CSE Student | Aspiring Data Scientist
+📊 Data Analytics • Machine Learning • Networking • Cybersecurity
+📍 India
 
-🌱 I’m currently learning Machine Learning, Data Visualization, and Full-Stack Web Development
+I am a Computer Science undergraduate with a strong foundation in data science and analytics, combined with a growing interest in networking and cybersecurity. I enjoy working on real-world datasets, extracting meaningful insights, and building interpretable machine learning models that solve practical business problems.
 
-💞️ I’m looking to collaborate on AI-powered projects, Data Science applications, and Web Development
+Alongside data science, I am actively building skills in computer networks and system security, aiming to understand how data, infrastructure, and security intersect in modern technology systems.
 
-📫 How to reach me:
+🔍 Areas of Interest
 
-Email: itisarpitkumar13082005@gmail.com
+Data Analysis & Business Insights
 
-LinkedIn: www.linkedin.com/in/arpit-kumar-3a54632a4
+Machine Learning & Predictive Modeling
 
-GitHub: @Arpit130805
+Exploratory Data Analysis (EDA) & Visualization
 
-😄 Pronouns: He/Him
+Statistics & Probability for Data Science
 
-⚡ Fun fact: I love cricket, watching anime, and exploring new technologies!
+Networking Fundamentals & Network Security
 
-🛠️ Tech Stack
+Cybersecurity Concepts & Defensive Systems
 
-Languages: Python, Sql, C++
+🛠️ Technical Skills
+Programming & Tools
 
-Web Development: HTML, CSS, JS
+Python (Core Python, OOP, scripting)
 
+Jupyter Notebook (analysis, experimentation, reporting)
 
-Data & AI: Pandas, Machine Learning, Data Visualization
+Linux (command line, file systems, basic networking tools)
 
-🚀 Featured Projects
+Data Science & Analytics
 
-🌐 Personal Portfolio Website (Showcasing my skills and experience)
+Python Libraries:
 
-🗺️ Voice-Controlled GIS Web App (Voice-enabled geospatial mapping using AI)
+NumPy, Pandas (data manipulation & analysis)
 
-🚀 Space Vaults (DeFi Platform) (Simplified staking & yield farming for space-related projects)
+Matplotlib, Seaborn (data visualization)
+
+Scikit-learn (machine learning models)
+
+TextBlob (basic NLP & sentiment analysis)
+
+Machine Learning:
+
+Regression models
+
+Feature engineering
+
+Model evaluation (MSE, R²)
+
+Statistics & Probability:
+
+Descriptive statistics
+
+Correlation & distributions
+
+Hypothesis understanding for data-driven decisions
+
+Databases & BI Tools
+
+SQL (queries, joins, aggregations)
+
+Tableau (dashboards, storytelling with data)
+
+Microsoft Excel (data cleaning, pivot tables, analysis)
+
+Networking & Cybersecurity
+
+CCNA (Learning & Practicing)
+
+Networking fundamentals
+
+IP addressing & subnetting
+
+Routing & switching concepts
+
+Cybersecurity Basics
+
+Network security fundamentals
+
+Understanding threats, vulnerabilities, and defenses
+
+🎯 Career Goals
+
+Build a strong career as a Data Analyst / Data Scientist
+
+Develop expertise in network-aware and security-conscious data systems
+
+Work on problems where data, infrastructure, and security overlap
+
+Continuously learn and apply concepts through hands-on projects
+
+🤝 Let’s Connect
+
+I’m open to:
+
+Data science internships & entry-level roles
+
+Collaboration on analytics or ML projects
+
+Learning opportunities in networking & cybersecurity
+
+📫 Feel free to explore my repositories or connect with me on LinkedIn.
