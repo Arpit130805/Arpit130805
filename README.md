@@ -23,6 +23,7 @@ Alongside data science, I am actively building skills in **computer networks and
 ## 🛠️ Technical Skills
 
 ### Programming & Tools
+- **C++** (DSA)
 - **Python** (Core Python, OOP, scripting)
 - **Jupyter Notebook** (analysis, experimentation, reporting)
 - **Linux** (command line, file systems, basic networking tools)
@@ -54,15 +55,6 @@ Alongside data science, I am actively building skills in **computer networks and
 - **Cybersecurity Fundamentals**  
   - Network security basics  
   - Threats, vulnerabilities, defenses  
-
----
-
-## 📌 Projects
-- **Zomato Restaurant Analysis & Rating Prediction**  
-  - Real-world dataset (10,000+ reviews)  
-  - Exploratory Data Analysis & Sentiment Analysis  
-  - Machine Learning-based rating prediction  
-  - Business-focused insights  
 
 ---
 
